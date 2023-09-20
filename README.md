@@ -1,1 +1,1 @@
-# POC using HTMX and Flask :Alembic:
+# POC using HTMX and Flask 🔭
